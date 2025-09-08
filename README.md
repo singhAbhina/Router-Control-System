@@ -48,4 +48,6 @@ All outputs are saved in `network_output.txt`.
  ![#output](https://github.com/singhAbhina/Router-Control-System/blob/main/sortest_path.png)
 
  ![#output](https://github.com/singhAbhina/Router-Control-System/blob/main/network_topology_with_routing_table.png)
+
+ ![#output](https://github.com/singhAbhina/Router-Control-System/blob/main/critical_connection.png)
    
