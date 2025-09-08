@@ -44,4 +44,6 @@ All outputs are saved in `network_output.txt`.
 
    ```bash
    g++ -std=c++11 main.cpp -o router_network
+   #output
+ ![#output](https://github.com/singhAbhina/Router-Control-System/blob/main/sortest_path.png)
    
