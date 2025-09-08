@@ -46,4 +46,6 @@ All outputs are saved in `network_output.txt`.
    g++ -std=c++11 main.cpp -o router_network
    #output
  ![#output](https://github.com/singhAbhina/Router-Control-System/blob/main/sortest_path.png)
+
+ ![#output](https://github.com/singhAbhina/Router-Control-System/blob/main/network_topology_with_routing_table.png)
    
